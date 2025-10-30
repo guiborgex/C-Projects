@@ -54,8 +54,8 @@ int main() {
     for(int i = 0; i < NUM_DISCIPLINAS; i++) {
         printf("Nota %d: %.2f\n", i+1, aluno.notas[i]);
     }
-    printf("Média: %.2f\n", aluno.media);
-    printf("Situação: %s\n", aluno.situacao);
+    printf("MÃ©dia: %.2f\n", aluno.media);
+    printf("SituaÃ§Ã£o: %s\n", aluno.situacao);
 
     return 0;
 }
