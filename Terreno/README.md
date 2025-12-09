@@ -1,3 +1,11 @@
-Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor 
-do metro quadrado do terreno com duas casas decimais. Em seguida, o programa deve mostrar o valor da area do terreno, bem como 
-o valor do preco do terreno, ambos com duas casas decimais.
+# Cálculo da Área e Preço de um Terreno
+
+O programa lê a **largura** e o **comprimento** de um terreno retangular (com uma casa decimal), além do **valor do metro quadrado** (com duas casas decimais).
+
+Com esses dados, o programa calcula e exibe:
+
+- A **área total** do terreno  
+- O **preço total** do terreno  
+
+Os resultados são mostrados com **duas casas decimais**.  
+É um exercício simples para praticar leitura de dados, cálculos e formatação de saída.
